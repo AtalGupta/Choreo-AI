@@ -1,5 +1,4 @@
-#AI-Enabled Choreography
-
+# AI-Enabled Choreography
 
 # Dance Generation and Visualization
 
