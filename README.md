@@ -10,7 +10,7 @@ The generative model is a Variational Autoencoder (VAE) with Long Short-Term Mem
 
 The training process includes the calculation of both the forecast loss and the KL divergence loss, which are characteristic of VAEs. The model is also tested on a separate test set, and the losses are reported.
 
-The code for the generative model can be found in the `Generative-model.ipynb` file.
+The code for the generative model can be found in the `Generative_model.ipynb` file.
 
 ## Data Visualization
 
@@ -18,4 +18,4 @@ The data visualization tool is designed to visualize the input, output, and targ
 
 The visualization tool can handle sequences of varying lengths and can plot multiple sequences in a single figure. It also supports the visualization of skeleton lines if the joint labels are provided.
 
-The code for data visualization can be found in the `Visualize-the-data.ipynb` file.
+The code for data visualization can be found in the `Visualize_the_data.ipynb` file.
